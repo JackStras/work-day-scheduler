@@ -1,2 +1,1 @@
-# work-day-scheduler
-scheduler for challenge 5 of coding bootcamp
+# Work Day Scheduler Starter Code
