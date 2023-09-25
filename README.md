@@ -1,5 +1,5 @@
 # Work Day Scheduler
 Work day scheduler site for module 5 project
 
-!alttext[]
+![Alt text](image-1.png)
 ## LINK
